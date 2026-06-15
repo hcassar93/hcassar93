@@ -2,7 +2,7 @@
 
 Based in Singapore. From Australia and Malta. 
 
-Building [Platfio](https:platfio.com) — a platform designed to streamline how software agencies plan, sell, and deliver custom software. 
+Building [Platfio](https://platfio.com) — a platform designed to streamline how software agencies plan, sell, and deliver custom software. 
 
 Director at [Ashgrey Digital](https://ashgreydigital.com), a software agency that builds complete digital solutions for businesses.
 
