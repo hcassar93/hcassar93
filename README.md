@@ -6,6 +6,6 @@ Building [Platfio](https://platfio.com) — a platform designed to streamline ho
 
 Director at [Ashgrey Digital](https://ashgreydigital.com), a software agency that builds complete digital solutions for businesses.
 
-Previously built AxipApp. Aquired.
+Previously built AxipApp - an Android, iOS and web app development platform for businesses. Aquired.
 
 I share my thoughts on AI, software, tools, and sales in my [Blog](https://hayden-cassar.web.app/blog).
