@@ -2,9 +2,11 @@
 
 Based in Singapore. From Australia and Malta. 
 
-Co-Founder [Platfio](https://platfio.com) — a platform designed to streamline how software agencies plan, sell, and deliver custom software. 
+FDE at [ElevenLabs](https://elevenlabs.io) — helping businesses build and deploy voice AI.
 
-Director at [Ashgrey Digital](https://ashgreydigital.com), a software agency that builds complete digital solutions for businesses.
+Co-Founder [Platfio](https://platfio.com) — a platform designed to streamline how software agencies plan, sell, and deliver custom software. Exited. 
+
+Director at [Ashgrey Digital](https://ashgreydigital.com) (a Platfio subsidiary), a software agency that builds complete digital solutions for businesses.
 
 Previously built AxipApp - an Android, iOS and web app development platform for businesses. Aquired.
 
